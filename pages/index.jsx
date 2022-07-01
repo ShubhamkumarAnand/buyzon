@@ -1,4 +1,5 @@
 import { Product, FooterBanner, HeroBanner } from '../components';
+import { client } from '../lib/client';
 
 const index = () => (
   <>
