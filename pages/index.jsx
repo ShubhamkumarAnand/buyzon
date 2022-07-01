@@ -2,7 +2,7 @@ import { Product, FooterBanner, HeroBanner } from '../components';
 
 const index = () => (
   <>
-    HeroBanner
+    <HeroBanner />
     <div className="products-heading">
       <h2>Best selling products</h2>
       <p>Speakers of many variations</p>
@@ -10,7 +10,7 @@ const index = () => (
     <div className="products-container">
       {['Product1', 'Product2'].map((product) => product)}
     </div>
-    Footer
+    <FooterBanner />
   </>
 );
 
