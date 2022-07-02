@@ -1,7 +1,14 @@
 import React from 'react';
+import { AiFillInstagram, AiOutlineTwitter } from 'react-icons/ai';
 
-const Banner = () => (
-  <div>Banner</div>
+const Footer = () => (
+  <div className="footer-container">
+    <p>2022 Buyzon Headphones All rights reserved</p>
+    <p className="icons">
+      <AiFillInstagram />
+      <AiOutlineTwitter />
+    </p>
+  </div>
 );
 
-export default Banner;
+export default Footer;
