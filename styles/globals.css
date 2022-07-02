@@ -70,6 +70,7 @@ span.text-red {
 .logo {
 	color: gray;
 	font-size: 18px;
+	font-weight: 600;
 }
 .cart-icon {
 	font-size: 25px;
