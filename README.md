@@ -2,4 +2,4 @@
 
 ![Banner](/Github_Files/images/Banner.png)
 
-![Buyzone](/Github_Files/images/initial.gif)
+![Buyzone](/Github_Files/images/Buyzon.gif)
