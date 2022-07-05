@@ -4,7 +4,7 @@ import Link from 'next/link';
 const Navbar = () => (
   <div className="navbar-container">
     <p className="logo">
-      <Link href="/">Buyzon Headphones</Link>
+      <Link href="/">Buyzon Sounds</Link>
     </p>
     <button className="cart-icon" type="button" onClick="">
       <AiOutlineShopping />
